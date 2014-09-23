@@ -1,0 +1,4 @@
+copyofandroidinapp
+==================
+
+needed for appgyver
